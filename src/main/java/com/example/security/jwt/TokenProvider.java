@@ -1,5 +1,6 @@
 package com.example.security.jwt;
 
+import com.sun.org.apache.xml.internal.security.algorithms.SignatureAlgorithm;
 import io.github.jhipster.config.JHipsterProperties;
 
 import java.util.*;
